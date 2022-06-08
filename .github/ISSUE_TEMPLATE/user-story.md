@@ -9,7 +9,7 @@ assignees: ''
 
 **As a** [role]
 **I need** [function]
-**So that88 [benefit]
+**So that** [benefit]
 
 ### Details and Assumptions
 * [document what you know]
